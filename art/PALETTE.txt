@@ -1,0 +1,9 @@
+Rightcoil / 右旋壳 — locked 6-color palette
+Rule: snail always turns right on wall hit; player places stones only.
+
+Shell / 壳	#F4A261
+Leaf / 叶	#2A9D8F
+Stone / 石	#4A5568
+Floor / 地	#E9D8A6
+Wall / 墙	#3D2914
+Void / 底	#1A120B
